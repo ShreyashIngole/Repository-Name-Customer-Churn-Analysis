@@ -511,3 +511,18 @@ Implement proactive retention campaigns targeting customers with:
 - High monthly charges
 - Electronic check payments
 - No security or support services
+
+
+## Power BI Dashboard
+
+### Executive Summary
+
+![Executive Summary](reports/dashboard_page1.png)
+
+### Customer Segmentation
+
+![Customer Segmentation](reports/dashboard_page2.png)
+
+### Predictive Insights & Recommendations
+
+![Predictive Insights](reports/dashboard_page3.png)
